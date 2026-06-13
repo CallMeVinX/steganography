@@ -799,7 +799,6 @@ def main():
     tab_embed, tab_extract = st.tabs([
         "⬛  Embedding",
         "🔍  Extraction",
-        # "ℹ  Tentang Metode",
     ])
 
     with tab_embed:
@@ -809,10 +808,6 @@ def main():
     with tab_extract:
         st.markdown('<br>', unsafe_allow_html=True)
         render_extract_tab()
-
-    # with tab_about:
-    #     st.markdown('<br>', unsafe_allow_html=True)
-    #     render_about_tab()
 
 
 if __name__ == "__main__":
