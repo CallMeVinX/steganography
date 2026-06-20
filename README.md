@@ -34,3 +34,4 @@ Plaintext
 - `app.py` menjalankan UI Streamlit untuk memasukkan pesan ke gambar dan mengekstrak kembali.
 - Format output yang disarankan adalah `PNG` karena sifat lossless-nya.
 - `DELIMITER` digunakan untuk menandai akhir payload yang disisipkan.
+- `Video Penjelasan` merupakan video yang menjelaskan cara kerja aplikasi.
