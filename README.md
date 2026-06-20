@@ -15,6 +15,9 @@ python -m streamlit run app.py
 Browser akan otomatis membuka `http://localhost:8501`.
 
 ---
+## Link Video Penjelasan Aplikasi
+
+### `https://mikroskilacid-my.sharepoint.com/:f:/g/personal/alvin_dinata_students_mikroskil_ac_id/IgBpDEEnrE-hRZxPDO8v5ZrHAYVdnCxodRIgeJdl2CzDrHw?e=whpEld`
 
 ## Arsitektur & Design Decisions
 
@@ -35,3 +38,4 @@ Plaintext
 - Format output yang disarankan adalah `PNG` karena sifat lossless-nya.
 - `DELIMITER` digunakan untuk menandai akhir payload yang disisipkan.
 - `Video Penjelasan` merupakan video yang menjelaskan cara kerja aplikasi.
+
